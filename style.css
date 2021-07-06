@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.color1{
+    color: rgb(173, 171, 21);
+}
+.color2{
+    text-decoration: coral;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 10px;
+    color: lightcyan;
+    font-weight: 700;
+    border-radius: 4px;
+}
+.color3{
+    width: 50%;
+    padding: 2%;
+}
+.color3 img{
+    width: 80%;
+}
+.color4{
+    display: flex;
+    margin: 50px;
+    padding: 2%;
+}
+h1{
+    font-size: 60px;
+}
+.color1{
+    padding: 1%;
+}
+.color4{
+    background-image: url(background.jpg);
+}
